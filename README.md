@@ -1,4 +1,4 @@
-# BlastCalc TransPorter
+# BlastCalc Transporter
 
 **Status:** 🚧 **Beta (Work in Progress)**  
 Desktop-Tool zur schnellen Erstellung von **Transportscheinen unter der ADR-1000-Punkte-Regel** (1.1.3.6).  
